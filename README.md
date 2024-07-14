@@ -1,5 +1,4 @@
 # medical-prediction
-# Insurance Charges Dataset
 
 ## Overview
 This dataset contains information about individuals and their medical insurance charges. The goal is to analyze factors influencing insurance costs.
